@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-21T18:37:58 IST" name="Default suite" finished-at="2023-11-21T18:38:11 IST" duration-ms="12588">
+    <groups>
+    </groups>
+    <test started-at="2023-11-21T18:37:58 IST" name="Default test" finished-at="2023-11-21T18:38:11 IST" duration-ms="12588">
+      <class name="darshanseries.test.Loginpagetest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:darshanseries.test.Loginpagetest@49c90a9c]" started-at="2023-11-21T18:37:58 IST" name="setup" finished-at="2023-11-21T18:38:06 IST" duration-ms="8118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:darshanseries.test.Loginpagetest@49c90a9c]" started-at="2023-11-21T18:38:06 IST" name="loginPageTitleTest" finished-at="2023-11-21T18:38:07 IST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="loginPageUrlTest()[pri:0, instance:darshanseries.test.Loginpagetest@49c90a9c]" started-at="2023-11-21T18:38:07 IST" name="loginPageUrlTest" finished-at="2023-11-21T18:38:07 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageUrlTest -->
+        <test-method signature="loginTest()[pri:0, instance:darshanseries.test.Loginpagetest@49c90a9c]" started-at="2023-11-21T18:38:07 IST" name="loginTest" finished-at="2023-11-21T18:38:10 IST" duration-ms="2936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:darshanseries.test.Loginpagetest@49c90a9c]" started-at="2023-11-21T18:38:10 IST" name="closeapp" finished-at="2023-11-21T18:38:11 IST" duration-ms="1306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- darshanseries.test.Loginpagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
